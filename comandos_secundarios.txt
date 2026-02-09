@@ -1,0 +1,1 @@
+Esse arquivo contem informacoes adicionais para o git

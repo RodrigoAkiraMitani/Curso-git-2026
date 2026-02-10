@@ -12,3 +12,6 @@ Aprendendo a fazer versionamento de codigo e repositorio remotos com o Github
 06. git commit -m "minha mensagem"
 07. git checkout main
 08. git merge nova_branch
+
+Terminando o curso de git
+e github
